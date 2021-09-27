@@ -4,8 +4,55 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/administrator_ic.xml" value="0.1" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/alert_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/alertcircle.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/alertlog_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/autochanger_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/backbutton_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/c2h2_gauge_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/control_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/cylinder_actived_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/cylinder_nonactived_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/dot_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/gasdock_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/gasline_left_actived_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/gasline_left_nonactived_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/gasline_right_actived_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/gasline_right_nonactived_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/gasname_display_ic.xml" value="0.38125" />
         <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/ic_oxygen_warning_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/labsislogo.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/nonalert_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/normalcircle.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/oxygen_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/oxygen_low_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/oxygen_normal_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/oxygen_warning_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/password_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/pressure_unit_ic.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/pressuremeter_ic.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/room_pressure_meter_ic.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/scan_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/screen_increase_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/setting_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/sound_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/steamer_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/steamer_low_temp_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/steamer_warning_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/version_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/wasteliquor_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/wasteliquor_normal_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable-v24/wasteliquor_over_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable/gasline_left_actived_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable/gasline_right_actived_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable/gasname_display_ic.xml" value="0.38125" />
         <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable/ic_top_layer.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable/ic_top_line.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable/ic_top_logo.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/drawable/version_display_ic.xml" value="0.38125" />
+        <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/layout/activity_main.xml" value="0.3651041666666667" />
         <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/nuri0/Samin_sci/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
